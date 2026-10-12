@@ -1,5 +1,5 @@
 <div class="container text-center section fade-up">
-  <h1>👋 Hi, I’m <strong>@heroinwenc</strong></h1>
+  <h1>👋 Hi, I’m <strong>@omeryigittr</strong></h1>
   <p class="lead">A high school student trying to gradually learn to code ❤</p>
 </div>
 
@@ -19,6 +19,9 @@
         </li>
         <li class="list-group-item bg-transparent text-light">
           <i class="fa-brands fa-js icon"></i>Favorite language: <a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a>
+        </li>
+        <li class="list-group-item bg-transparent text-light">
+          <i class="fa-solid fa-globe icon"></i>Website: <a href="https://omeryigit.tr" target="_blank" rel="noopener">omeryigit.tr</a>
         </li>
       </ul>
     </div>
