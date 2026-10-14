@@ -37,5 +37,5 @@
 <br />
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omeryigittr&theme=onedark&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omeryigittr&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=F0883E&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
