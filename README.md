@@ -37,5 +37,5 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omeryigittr&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=F0883E&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omeryigittr&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" width="80%" />
 </div>
